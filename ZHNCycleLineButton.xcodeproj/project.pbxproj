@@ -15,6 +15,7 @@
 		CD08D7D91E5ED2C300E5E095 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD08D7D71E5ED2C300E5E095 /* LaunchScreen.storyboard */; };
 		CD08D7E41E5ED2C300E5E095 /* ZHNCycleLineButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD08D7E31E5ED2C300E5E095 /* ZHNCycleLineButtonTests.m */; };
 		CD08D7EF1E5ED2C300E5E095 /* ZHNCycleLineButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD08D7EE1E5ED2C300E5E095 /* ZHNCycleLineButtonUITests.m */; };
+		CD08D7FE1E5ED2D300E5E095 /* ZHNCycleLineButton.m in Sources */ = {isa = PBXBuildFile; fileRef = CD08D7FD1E5ED2D300E5E095 /* ZHNCycleLineButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		CD08D7EA1E5ED2C300E5E095 /* ZHNCycleLineButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZHNCycleLineButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD08D7EE1E5ED2C300E5E095 /* ZHNCycleLineButtonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZHNCycleLineButtonUITests.m; sourceTree = "<group>"; };
 		CD08D7F01E5ED2C300E5E095 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD08D7FC1E5ED2D300E5E095 /* ZHNCycleLineButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHNCycleLineButton.h; sourceTree = "<group>"; };
+		CD08D7FD1E5ED2D300E5E095 /* ZHNCycleLineButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHNCycleLineButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				CD08D7CD1E5ED2C300E5E095 /* AppDelegate.m */,
 				CD08D7CF1E5ED2C300E5E095 /* ViewController.h */,
 				CD08D7D01E5ED2C300E5E095 /* ViewController.m */,
+				CD08D7FC1E5ED2D300E5E095 /* ZHNCycleLineButton.h */,
+				CD08D7FD1E5ED2D300E5E095 /* ZHNCycleLineButton.m */,
 				CD08D7D21E5ED2C300E5E095 /* Main.storyboard */,
 				CD08D7D51E5ED2C300E5E095 /* Assets.xcassets */,
 				CD08D7D71E5ED2C300E5E095 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 				CD08D7D11E5ED2C300E5E095 /* ViewController.m in Sources */,
 				CD08D7CE1E5ED2C300E5E095 /* AppDelegate.m in Sources */,
 				CD08D7CB1E5ED2C300E5E095 /* main.m in Sources */,
+				CD08D7FE1E5ED2D300E5E095 /* ZHNCycleLineButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
