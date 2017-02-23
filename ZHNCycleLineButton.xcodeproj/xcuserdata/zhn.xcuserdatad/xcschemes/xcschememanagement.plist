@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ZHNCycleLineButton.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CD08D7C51E5ED2C300E5E095</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD08D7DE1E5ED2C300E5E095</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD08D7E91E5ED2C300E5E095</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
